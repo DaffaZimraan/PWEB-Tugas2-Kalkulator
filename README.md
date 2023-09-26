@@ -1,4 +1,4 @@
-# TUGAS PWEB-PEMBUATAN KALKULATOR SEDERHANA
-Nama  : Daffa Zimraan Hassan
-NRP   : 5025221223
+##TUGAS PWEB-PEMBUATAN KALKULATOR SEDERHANA<br/>
+Nama  : Daffa Zimraan Hassan<br/>
+NRP   : 5025221223<br/>
 Kelas : PWEB-H
